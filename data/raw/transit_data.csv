@@ -1,0 +1,6 @@
+route_id,bus_id,date,passenger_count,route_distance_km,travel_time_min,fuel_consumed_liters
+R101,B12,2025-01-01,45,18,55,6.2
+R102,B07,2025-01-01,30,15,50,5.1
+R103,B18,2025-01-01,60,22,70,7.5
+R101,B12,2025-01-02,50,18,58,6.4
+R102,B07,2025-01-02,28,15,48,5.0
